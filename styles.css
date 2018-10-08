@@ -1,0 +1,15 @@
+.bestMovie{
+color: red ;
+}
+.bestArtist{
+color: green;
+}
+.bestGame{
+color: blue;
+}
+.bestClass{
+color: purple;
+}
+h2{
+    font-family: 'Roboto Condensed', sans-serif;
+}
